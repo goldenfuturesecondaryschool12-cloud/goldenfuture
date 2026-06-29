@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# ERP portal is private — keep crawlers out
+Disallow: /erp
+Disallow: /login
+
+# Sitemap
+Sitemap: https://goldenfutureschool.edu.np/sitemap.xml
